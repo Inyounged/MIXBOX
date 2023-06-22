@@ -1,3 +1,3 @@
 # MIXBOX
 
-force graph Design ongoing
+force graph design ongoing
